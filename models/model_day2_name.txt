@@ -1,1 +1,1 @@
-XGBoost
+Ridge Regression
